@@ -1,0 +1,6 @@
+Detailed test results:
+Total tests found: 3
+Total tests succeeded: 3
+Total tests failed: 0
+Test run finished after: 1691604647724 ms
+--------------------------------------
